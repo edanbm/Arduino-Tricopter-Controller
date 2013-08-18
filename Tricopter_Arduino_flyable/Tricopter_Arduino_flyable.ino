@@ -14,6 +14,12 @@
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>
+
+    Gyro interface code adapted from:
+
+    Arduino Cookbook, Second Edition, by Michael Margolis and Nick Weldin
+    (O'Riley).  Copyright 2012 Michael Margolis, Nicholas Weldin, 
+    978-1-4493-1387-6.   
  */
 
 #include <Wire.h>
